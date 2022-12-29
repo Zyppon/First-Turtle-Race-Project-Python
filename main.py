@@ -6,7 +6,8 @@ from random import randint
 
 sc = turtle.Screen()
 sc.title("Turtle Race Project")
-sc.bgcolor("black")
+
+###########################
 speed(10)
 penup()
 goto(-140,140)
